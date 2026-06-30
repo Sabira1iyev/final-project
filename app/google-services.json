@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507245427317",
+    "project_id": "postalon-51db0",
+    "storage_bucket": "postalon-51db0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507245427317:android:638a428dc026a2b306163c",
+        "android_client_info": {
+          "package_name": "com.example.postalon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQLw2rbTMNXTWOfBXEfNxcemv_S1hm3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
